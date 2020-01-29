@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT9018AB
+D 3A Fixed/Adjustable 1.2-20V Low Drop-out Voltage Regualtor, SO-8
+K LDO Voltage Regulator 3A 1.5 1.8 3.3V Adjustable
+F https://www.richtek.com/assets/rqs_file/RT9018AB.pdf
+$ENDCMP
+#
+$CMP RT9059
+D 3A Fixed/Adjustable 1.2-20V Low Drop-out Voltage Regualtor, SO-8
+K LDO Voltage Regulator 3A 1.5 1.8 3.3V Adjustable
+F https://www.richtek.com/assets/product_file/RT9059/DS9059-11.pdf
+$ENDCMP
+#
+$CMP RT9817C-30PH
+D Power supply supervisor, Manual reset, Threshold 3.03V, SOT-143
+K Supervisor Reset
+$ENDCMP
+#
+#End Doc Library
